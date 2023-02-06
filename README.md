@@ -1,6 +1,6 @@
-# IMZ 3rd_Life
+# IMZ 3rd_Life 🔥
 ________________________________________________________________________________
-Infomation | IMZ 3rd Life
+# Infomation | IMZ 3rd Life 📡
 
 Minecraft Version : 1.19.3
 
@@ -10,7 +10,7 @@ Server : purpur
 
 seed : -
 ________________________________________________________________________________
-# - System Information
+# - System Information 🖥️
 ________________________________________________________________________________
 # Main IMZ Server Specification
 CPU : Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz
@@ -21,9 +21,13 @@ Storage : 32GB
 
 OS : Windows Server 2019
 ________________________________________________________________________________
-Datapack Server
+# Datapack Server List 📃
 
 ________________________________________________________________________________
-Plugin Server 
+# Plugin Server List 📃
 
+________________________________________________________________________________
+# More Server Performance ツ
+
+Server Optimization By SycerNetwork .Inc 
 ________________________________________________________________________________
