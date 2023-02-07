@@ -15,7 +15,7 @@ ________________________________________________________________________________
 # Main IMZ Server Specification
 CPU : Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
 
-Ram : DDR4 ECC 18GB
+Ram : DDR3 ECC 18GB
 
 Storage : HDD 32GB
 
@@ -24,31 +24,53 @@ ________________________________________________________________________________
 # Datapack Server List 📃
 
 ArmorStatues
+
 CauldronConcreat
+
 Chunkloaders
+
 ClassicFishingLoot
+
 CoordinateHud
+
 CustomCraftingTables
+
 CustomNetherPortals
+
 DoubleShulkerShells
+
 DragonDrop
+
 Elevators
+
 FastLeafDecay
+
 Graves
+
 IMZ_3rd_Life_Utils[Private]
+
 PlayerHeadDrops
+
 Timber
+
 UnlockAllRecipes
+
 VaniilaTweaks
+
 WanderingTrades
+
 XPManagement
 ________________________________________________________________________________
 # Plugin Server List 📃
 
 CoreProtect
+
 GSit
+
 PluginManager
+
 Spark
+
 Voicechat (Bukkit)
 ________________________________________________________________________________
 # IMZ SS5 Member
