@@ -23,9 +23,33 @@ OS : Windows Server 2022
 ________________________________________________________________________________
 # Datapack Server List 📃
 
+ArmorStatues
+CauldronConcreat
+Chunkloaders
+ClassicFishingLoot
+CoordinateHud
+CustomCraftingTables
+CustomNetherPortals
+DoubleShulkerShells
+DragonDrop
+Elevators
+FastLeafDecay
+Graves
+IMZ_3rd_Life_Utils[Private]
+PlayerHeadDrops
+Timber
+UnlockAllRecipes
+VaniilaTweaks
+WanderingTrades
+XPManagement
 ________________________________________________________________________________
 # Plugin Server List 📃
 
+CoreProtect
+GSit
+PluginManager
+Spark
+Voicechat (Bukkit)
 ________________________________________________________________________________
 # IMZ SS5 Member
 
