@@ -13,13 +13,13 @@ ________________________________________________________________________________
 # - System Information 🖥️
 ________________________________________________________________________________
 # Main IMZ Server Specification
-CPU : Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz
+CPU : Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz
 
-Ram : DDR4 ECC 16GB
+Ram : DDR4 ECC 18GB
 
-Storage : 32GB
+Storage : HDD 32GB
 
-OS : Windows Server 2019
+OS : Windows Server 2022
 ________________________________________________________________________________
 # Datapack Server List 📃
 
